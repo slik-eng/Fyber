@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Fyber</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="format">format</string>
+    <string name="appid">appid</string>
+    <string name="uid">uid</string>
+    <string name="locale">locale</string>
+    <string name="os_version">os_version</string>
+    <string name="timestamp">timestamp</string>
+    <string name="google_ad_id">google_ad_id</string>
+    <string name="google_ad_id_limited_tracking_enabled">google_ad_id_limited_tracking_enabled</string>
+    <string name="ip">ip</string>
+    <string name="pub0">pub0</string>
+    <string name="page">page</string>
+    <string name="offer_types">offer_types</string>
+    <string name="ps_time">ps_time</string>
+    <string name="device">device</string>
+    <string name="equal">=</string>
+    <string name="and"><![CDATA[&]]></string>
+    <string name="not_valid">The response corrupted or the signature not valid</string>
+    <string name="processing">Processing...</string>
+    <string name="format_ui">Format:</string>
+    <string name="json_ui">json</string>
+    <string name="application_id_ui">Application ID:</string>
+    <string name="user_id_ui">User ID:</string>
+    <string name="locale_ui">Locale:</string>
+    <string name="os_version_ui">OS Version:</string>
+    <string name="timestamp_ui">Timestamp:</string>
+    <string name="google_ad_id_ui">Google Ad ID:</string>
+    <string name="limited_tracking_enabled_ui">Limited tracking Enabled:</string>
+    <string name="ip_ui">IP:</string>
+    <string name="custom_parameters_ui">Custom parameters:</string>
+    <string name="page_ui">Page:</string>
+    <string name="offer_types_ui">Offer types:</string>
+    <string name="ps_time_ui">PS Time:</string>
+    <string name="device_ui">Device:</string>
+    <string name="send_request_ui">SEND REQUEST</string>
+    <string name="request_parameters">Request Parameters:</string>
+    <string name="optional_params">Optional params:</string>
+
+</resources>
